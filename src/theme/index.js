@@ -16,7 +16,7 @@ export default {
 		"lg": [
 			{
 				"type": "max-width",
-				"value": 992
+				"value": "991"
 			}
 		]
 	},
@@ -151,5 +151,5 @@ export default {
 			}
 		}
 	},
-	"version": 1
+	"version": 2
 }
